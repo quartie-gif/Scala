@@ -1,1 +1,4 @@
 # Scala
+During laboratories, students shall complete two exercises. First, covering material that was already covered in the previous lab. This task should be performed without looking at any additional material than student’s own exercises. This part, when completed successfully, results in 6 points. About 30-40 minutes is allotted for this exercise. The second exercise will cover new material discussed in the last lecture. Successful completion of this exercise provides 4 points. Students can look up any material they wish during this exercise except forums, chats etc. while the language documentation, lectures are accepted. 
+During some labs (3-4) the first part will be omitted for the sake of more interesting problem to be solved. 
+Larger student projects are possible as a way to improve the final grade.
